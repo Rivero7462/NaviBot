@@ -17,7 +17,7 @@ for(const response of responses) {
 }
 
 client.on('ready', () => {
-  console.log('Logged in as ${client.user.tag}!');
+  console.log(`Logged in as ${client.user.tag}!`);
 });
 
 client.on('interactionCreate', async interaction => {
