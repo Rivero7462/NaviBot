@@ -1,0 +1,238 @@
+[
+	{
+		"item": "a Green Rupee... that is just unlucky",
+		"weight": 1
+	},
+	{
+		"item": "a Blue Rupee",
+		"weight": 120
+	},
+	{
+		"item": "a Red Rupee",
+		"weight": 36
+	},
+	{
+		"item": "a Purple Rupee",
+		"weight": 8
+	},
+	{
+		"item": "a Gold Rupee",
+		"weight": 1
+	},
+	{
+		"item": "a Heart",
+		"weight": 33
+	},
+	{
+		"item": "Bombs",
+		"weight": 9
+	},
+	{
+		"item": "Bombchus",
+		"weight": 6
+	},
+	{
+		"item": "the Bow",
+		"weight": 1
+	},
+	{
+		"item": "Fire Arrows",
+		"weight": 1
+	},
+	{
+		"item": "Din's Fire",
+		"weight": 1
+	},
+	{
+		"item": "Ice Arrows",
+		"weight": 1
+	},
+	{
+		"item": "Nayru's Love",
+		"weight": 1
+	},
+	{
+		"item": "Light Arrows",
+		"weight": 1
+	},
+	{
+		"item": "the Slingshot",
+		"weight": 1
+	},
+	{
+		"item": "the Hookshot",
+		"weight": 1
+	},
+	{
+		"item": "the Longshot",
+		"weight": 1
+	},
+	{
+		"item": "Farore's Wind",
+		"weight": 1
+	},
+	{
+		"item": "the Lens of Truth",
+		"weight": 1
+	},
+	{
+		"item": "a Magic Bean",
+		"weight": 1
+	},
+	{
+		"item": "a Bottle",
+		"weight": 2
+	},
+	{
+		"item": "a Red Potion",
+		"weight": 4
+	},
+	{
+		"item": "a Blue Potion",
+		"weight": 2
+	},
+	{
+		"item": "a Green Potion",
+		"weight": 2
+	},
+	{
+		"item": "a Fairy",
+		"weight": 2
+	},
+	{
+		"item": "some Milk",
+		"weight": 1
+	},
+	{
+		"item": "a Poe",
+		"weight": 3
+	},
+	{
+		"item": "the Kokiri Sword",
+		"weight": 1
+	},
+	{
+		"item": "a Deku Shield",
+		"weight": 1
+	},
+	{
+		"item": "a Hylian Shield",
+		"weight": 1
+	},
+	{
+		"item": "the Mirror Shield",
+		"weight": 1
+	},
+	{
+		"item": "the Goron Tunic",
+		"weight": 1
+	},
+	{
+		"item": "the Zora Tunic",
+		"weight": 1
+	},
+	{
+		"item": "the Iron Boots",
+		"weight": 1
+	},
+	{
+		"item": "the Hover Boots",
+		"weight": 1
+	},
+	{
+		"item": "the Bomb Bag",
+		"weight": 1
+	},
+	{
+		"item": "a Quiver Upgrade",
+		"weight": 1
+	},
+	{
+		"item": "a Bomb Bag Upgrade",
+		"weight": 1
+	},
+	{
+		"item": "the Adult's Wallet",
+		"weight": 1
+	},
+	{
+		"item": "the Giant's Wallet",
+		"weight": 1
+	},
+	{
+		"item": "the Silver Scale",
+		"weight": 1
+	},
+	{
+		"item": "the Golden Scale",
+		"weight": 1
+	},
+	{
+		"item": "the Goron's Bracelet",
+		"weight": 1
+	},
+	{
+		"item": "the Silver Gauntlets",
+		"weight": 1
+	},
+	{
+		"item": "the Gold Gauntlets",
+		"weight": 1
+	},
+	{
+		"item": "a Key, no Specific Key, just a Key",
+		"weight": 1
+	},
+	{
+		"item": "a Bullet Bag",
+		"weight": 1
+	},
+	{
+		"item": "a Heart Piece",
+		"weight": 6
+	},
+	{
+		"item": "a Heart Container",
+		"weight": 1
+	},
+	{
+		"item": "a Map, no Specific Map, just a Map",
+		"weight": 1
+	},
+	{
+		"item": "a Compass, no Specific Compass, just a Compass",
+		"weight": 1
+	},
+	{
+		"item": "a Stick Bag Upgrade",
+		"weight": 1
+	},
+	{
+		"item": "a Deku Nut Bag Upgrade",
+		"weight": 1
+	},
+	{
+		"item": "the Biggoron's Sword",
+		"weight": 1
+	},
+	{
+		"item": "a Link... why are you in a chest...",
+		"weight": 1
+	},
+	{
+		"item": "a Oocca... Wrong Game... uhh... Blue Rupee",
+		"weight": 1
+	},
+	{
+		"item": "Navi... Sorry I was stuck...",
+		"weight": 1
+	},
+	{
+		"item": "a Deku Nut",
+		"weight": 15
+	},
+	{
+		"item": "a Deku Stick",
+		"weight": 15
+	}
+]
