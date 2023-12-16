@@ -1,6 +1,8 @@
 import 'dotenv/config';
 import { REST, Routes } from 'discord.js';
 
+const fetch = require('node-fetch');  //New
+
 const commands = [
   {
     name: 'chest',
@@ -26,7 +28,7 @@ try {
   console.error(error);
 }
 
-setInterval(() => {
+setInterval(() => {                                                     //New
   fetch(config.dashboard.url)
   .then(() => console.log('Keeping bot website alive!'));
 }, 5 * 60 * 1000);
