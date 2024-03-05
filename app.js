@@ -8,6 +8,7 @@ function sleep(ms) {
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
+// Chest
 const responses = JSON.parse(fs.readFileSync("chestresponses.json"));
 
 let responsesTotalWeight = 0;
@@ -31,10 +32,6 @@ client.on('interactionCreate', async interaction => {
   }
 });
 
-async function think(interaction) {
-    return interaction.deferReply();
-}
-
 async function chest(interaction) {
   await interaction.reply('Opening chest...');
 
@@ -52,6 +49,11 @@ async function chest(interaction) {
   }
 
   await interaction.channel.send('You found ' + selectedResponse.item + '!');
+}
+
+// Think
+async function think(interaction) {
+  return interaction.deferReply();
 }
 
 client.login(process.env.DISCORD_TOKEN);

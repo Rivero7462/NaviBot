@@ -27,8 +27,3 @@ try {
 } catch (error) {
   console.error(error);
 }
-
-setInterval(() => {                                                     //New
-  fetch(config.dashboard.url)
-  .then(() => console.log('Keeping bot website alive!'));
-}, 5 * 60 * 1000);
